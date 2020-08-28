@@ -47,7 +47,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 51221,
+    "port": 11116,
     "user": "azzurerpc",
     "pass": "SomeOtherWorldlyPasswordGoesHere1"
   },
